@@ -1,8 +1,11 @@
+<div align="center">
+  <h2>Thanks for coming！ I'm miaoledor!</h2>
+  <p><em>Probably an an algorithm enthusiast and developer.</em></p>
+</div>
+
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="middle">
-      <h2>Thanks for coming！ I'm miaoledor!</h2>
-      <p><em>Probably an an algorithm enthusiast and developer.</em></p>
       <blockquote>
         <p>Lian secretly strikes a different pose every time you visit &gt;w&lt;</p>
       </blockquote>
