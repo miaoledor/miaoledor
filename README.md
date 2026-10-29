@@ -18,7 +18,7 @@
 
 <p>This is my Umi and bronze medal from the ICPC Asia Regional Contest.</p>
 
-<img src="icpc.jpg" width="220" alt="alt text">
+<img src="icpc.jpg" width="300" alt="alt text">
 
 </div>
 
